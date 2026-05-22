@@ -1,10 +1,13 @@
 ﻿Referência,Descrição,Quantidade,Notas
-SW1,Detector Switch KFC-V-105-2,1,Montagem SMD/Invertida
 PCB,Placa FabLaBrinde Customizada,1,Fibra de vidro 1.6mm
-"MAG1, MAG2",Ímãs de Neodímio (N52),2,Atração entre nuvem e raio
-LED1,String LED Azul (5V/3V),1,Inserir dentro da nuvem
+SW1,Detector Switch KFC-V-105-2,1,Montagem SMD/Invertida
+LED1,LED amarelo para diorama (3V),1,Inserir dentro do raio
+LED2,String LED Azul (5V),1,Inserir dentro da nuvem
+R1, Resistor 220Ω,1,Para limitar corrente do LED amarelo
+"MAG1, MAG2",Ímãs de Neodímio (N52) 16x3mm,2,Atração entre nuvem e raio
 BASE,Base de Madeira Fresada,1,Madeira de lei ou MDF
 3D-NUVEM,Peça 3D - Nuvem,1,Material translúcido/branco
 3D-RAIO,Peça 3D - Relâmpago,1,Material amarelo/sólido
-JST1,Conector JST XH 2.50mm,1,Para entrada de energia
+JST1,Conector JST XH 2.50mm Macho (Montado em PCB),3,Para entrada e saída de energia
+JST2,Conector JST XH 2.50mm Femea (Crimpado em fio),3,Para entrada e saída de energia
 PAR1-4,Parafusos M3x6mm,10,Fixação da PCB na base
